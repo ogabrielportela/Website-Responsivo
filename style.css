@@ -444,6 +444,10 @@ section
     {
         padding: 20px;
     }
+    .titleText
+    {
+        text-align: center;
+    }
     .banner .content h2
     {
         font-size: 3em;
